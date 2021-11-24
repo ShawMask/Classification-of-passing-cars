@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Introduction
+This Repository Consist of all the necessary preprocessing and Processing techniques to classify different object based on sklearn and librosa enviroment. 
+
+## Libsrosa
+an Enviroment useful to process sound and speech this enviroment allows user to create features with ease
+### sklearn
+this  package allows users to use a variety of different techniques 
 
 - Bulleted
 - List
